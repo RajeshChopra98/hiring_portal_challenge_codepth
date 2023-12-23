@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  body {
+    height:fit-content !important;
+    min-height: 100vh !important;
+    background: linear-gradient(to right, rgb(15, 23, 42), rgb(88, 28, 135), rgb(15, 23, 42));
+  }
+  input{
+    padding-left: 1rem !important;
+  }
+}
