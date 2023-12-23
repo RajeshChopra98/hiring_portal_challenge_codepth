@@ -10,9 +10,8 @@ import Profile from "./components/Profile/Profile";
 import { Toaster } from "react-hot-toast";
 
 
-
 function App() {
-  
+
 
   return (
     <>
